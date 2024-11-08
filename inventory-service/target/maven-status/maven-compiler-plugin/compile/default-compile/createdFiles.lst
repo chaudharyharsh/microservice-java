@@ -1,0 +1,14 @@
+com\microservice\inventory\dto\request\InventoryRequest$InventoryRequestBuilder.class
+com\microservice\inventory\controller\InventoryController.class
+com\microservice\inventory\dto\request\InventoryRequest.class
+com\microservice\inventory\service\InventoryService.class
+com\microservice\inventory\dto\response\InventoryResponse$InventoryResponseBuilder.class
+com\microservice\inventory\InventoryApplication.class
+com\microservice\inventory\dto\response\InventoryResponse.class
+com\microservice\inventory\model\Inventory.class
+com\microservice\inventory\model\Inventory$InventoryBuilder.class
+com\microservice\inventory\ServletInitializer.class
+com\microservice\inventory\mapper\InventoryMapper.class
+com\microservice\inventory\repository\InventoryRepository.class
+com\microservice\inventory\response\ApiResponse.class
+com\microservice\inventory\service\impl\InventoryServiceImpl.class

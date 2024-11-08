@@ -1,0 +1,14 @@
+com\microservice\product\dto\response\ProductResponse$ProductResponseBuilder.class
+com\microservice\product\controller\ProductController.class
+com\microservice\product\mapper\ProductMapper.class
+com\microservice\product\model\Product.class
+com\microservice\product\dto\request\ProductRequest$ProductRequestBuilder.class
+com\microservice\product\dto\request\ProductRequest.class
+com\microservice\product\service\impl\ProductServiceImpl.class
+com\microservice\product\service\ProductService.class
+com\microservice\product\dto\response\ProductResponse.class
+com\microservice\product\ProductServiceApplication.class
+com\microservice\product\response\ApiResponse.class
+com\microservice\product\ServletInitializer.class
+com\microservice\product\repository\ProductRepository.class
+com\microservice\product\model\Product$ProductBuilder.class

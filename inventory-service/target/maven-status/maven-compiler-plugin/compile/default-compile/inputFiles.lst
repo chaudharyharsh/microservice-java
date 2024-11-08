@@ -1,0 +1,11 @@
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\model\Inventory.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\dto\response\InventoryResponse.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\repository\InventoryRepository.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\response\ApiResponse.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\dto\request\InventoryRequest.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\InventoryApplication.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\ServletInitializer.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\controller\InventoryController.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\service\impl\InventoryServiceImpl.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\mapper\InventoryMapper.java
+E:\microservice\inventory-service\src\main\java\com\microservice\inventory\service\InventoryService.java
